@@ -1,0 +1,92 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "sku": 1,
+      "title": "Harley-Davidson CVO",
+      "description": "Harley-Davidson CVO",
+      "price": 1000,
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 2,
+      "sku": 2,
+      "title": "Ducati Panigale V4 Speciale",
+      "description": "Ducati Panigale V4 Speciale",
+      "availableSizes": ["X", "M", "L"],
+      "price": 1459,
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 3,
+      "sku": 3,
+      "title": "Kawasaki Ninja H2",
+      "description": "Kawasaki Ninja H2",
+      "price": 1419,
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 4,
+      "sku": 4,
+      "title": "BMW HP4 Race",
+      "description": "BMW HP4 Race",
+      "availableSizes": ["XL"],
+      "price": 2569,
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 5,
+      "sku": 5,
+      "title": "BMW HP4 Race",
+      "description": "BMW HP4 Race",
+      "availableSizes": ["X", "L", "XL"],
+      "price": 1009,
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 6,
+      "sku": 6,
+      "title": "Big Dog K9 Red Chopper",
+      "description": "Big Dog K9 Red Chopper",
+      "availableSizes": ["XL", "XXL"],
+      "price": 4939,
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 7,
+      "sku": 7,
+      "title": " Ducati Panigale V4 R",
+      "description": " Ducati Panigale V4 R",
+      "availableSizes": ["S"],
+      "style": "Preto com listras brancas",
+      "price": 2215,
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 8,
+      "sku": 8,
+      "title": "MV Agusta F4 RC",
+      "description": "",
+      "availableSizes": ["XL"],
+      "style": "Azul escuro",
+      "price": 1817,
+      "isFreeShipping": false
+    },
+    {
+      "id": 9,
+      "sku": 9,
+      "title": "Honda Goldwing Tour",
+      "description": "",
+      "availableSizes": ["L", "XL"],
+      "price": 1349,
+      "isFreeShipping": true
+    }
+  ]
+}
