@@ -36,7 +36,7 @@ class Footer extends React.Component{
         return(
            <FooterWrapper>
                 <TextWrapper>
-                   <h4>E-Commerce Website</h4>
+                   <h4>Bikers</h4>
                  </TextWrapper>
                       
                     <LogoWrapper> 

@@ -69,7 +69,7 @@ class Header extends React.Component{
             <NavWrapper>
              
                      <NavLink to ="/" exact ><a href="/"><LogoWrapper src={logo}/></a></NavLink>
-                     <h1>E-commerce Website</h1>
+                     <h1>Bikers</h1>
                        {token ?
                         <div>
                             <ButtonWrapper onClick={() => { this.props.history.push('/logout') }}> Logout</ButtonWrapper>
