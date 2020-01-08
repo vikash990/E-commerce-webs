@@ -1,7 +1,7 @@
 {
   "name": "ecommerce-shopping-cart",
   "version": "0.1.0",
-  "homepage": "http://vikash990.github.io/E-Commerce-website",
+  "homepage": "http://vikash990.github.io/e-commerce",
   "private": true,
   "dependencies": {
     "axios": "^0.19.1",

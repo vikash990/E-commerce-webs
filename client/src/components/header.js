@@ -74,11 +74,11 @@ class Header extends React.Component{
                         <div>
                             <ButtonWrapper onClick={() => { this.props.history.push('/logout') }}> Logout</ButtonWrapper>
                             <ButtonWrapper  onClick={() => { this.props.history.push('/profile') }}>Profile</ButtonWrapper>
-                            <ButtonWrapper   onClick={() => { this.props.history.push('/basket') }}> Cart</ButtonWrapper>
+                            
                         </div>
                        : <div>
                        <ButtonWrapper  onClick={() => { this.props.history.push('/login') }}> Login</ButtonWrapper>
-                       <ButtonWrapper   onClick={() => { this.props.history.push('/basket') }}> Cart</ButtonWrapper>
+                       
                        </div>
                        }
                      
