@@ -4,7 +4,7 @@
   "homepage": "http://vikash990.github.io/e-commerce",
   "private": true,
   "dependencies": {
-    "axios": "^0.19.1",
+    "axios": "^0.21.1",
     "cors": "^2.8.5",
     "express": "^4.16.4",
     "gh-pages": "^2.0.1",
